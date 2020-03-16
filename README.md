@@ -20,8 +20,8 @@ cuantitativa en el desempeño de investigaciones en diferentes campos del conoci
 * Adquisión de Información
 * Introducción a Bibliometrix
   - Bibliometrix package in R
-  - Principales medidas bibliométricas
 * Biblioshiny
+  - Análisis descriptivo
   - Análisis de Fuentes
   - Análisis de Autores
   - Análisis de Citas
