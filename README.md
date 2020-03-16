@@ -32,7 +32,8 @@ cuantitativa en el desempeño de investigaciones en diferentes campos del conoci
   - Estructura Intelectual
     + Co-citación
   - Estructura Social
-  
+ 
+________________________________________
  #### Requerimientos
 * Plataforma con sistema operativo Windows 10/8.1/8/7Vista Windows Server 2019/2016/2012/2008
 * Mínimo 256 MB libres de RAM
