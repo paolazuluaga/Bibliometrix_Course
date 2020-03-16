@@ -38,4 +38,4 @@ cuantitativa en el desempeño de investigaciones en diferentes campos del conoci
 * Mínimo 256 MB libres de RAM
 * R-Studio
 * Conexión a Internet
-* Acceso a SCOPUS y CLAREVITE ANALYTICS (WcK)
+* Acceso a SCOPUS y CLAREVITE ANALYTICS (WoK)
