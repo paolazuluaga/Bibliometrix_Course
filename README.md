@@ -14,13 +14,13 @@ cuantitativa en el desempeño de investigaciones en diferentes campos del conoci
   
 
 ### Temario
-* [Introducción a la Bibliometría](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/1.%20Introducci%C3%B3n%20Bibliometr%C3%ADa.md)
-* [Fuentes de datos](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/2.%20Fuentes%20de%20Datos.md)
+* [Introducción a la Bibliometría](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/1.%20Introducci%C3%B3n%20Bibliometr%C3%ADa.md#1-introducci%C3%B3n-a-la-bibliometr%C3%ADa)
+* [Fuentes de datos](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/2.%20Fuentes%20de%20Datos.md#2-fuentes-de-datos)
   - Scopus, Web of Science
-* [Adquisión de Información](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/3.%20Adquisici%C3%B3n%20de%20Informaci%C3%B3n.md)
-* [Introducción a Bibliometrix](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/4.%20Introducci%C3%B3n%20a%20Bibliometrix.md)
+* [Adquisión de Información](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/3.%20Adquisici%C3%B3n%20de%20Informaci%C3%B3n.md#3-adquisici%C3%B3n-de-informaci%C3%B3n)
+* [Introducción a Bibliometrix](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/4.%20Introducci%C3%B3n%20a%20Bibliometrix.md#4-introducci%C3%B3n-a-bibliometrix)
   - Bibliometrix package in R
-* [Biblioshiny](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.%20Biblioshiny.md)
+* [Biblioshiny](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.%20Biblioshiny.md#5-biblioshiny)
   - [Análisis de Fuentes](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.1.%20M%C3%A9tricas.md#d-fuentes-sources)
   - [Análisis de Autores](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.1.%20M%C3%A9tricas.md#e-autores-authors)
   - [Análisis de Documentos](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.1.%20M%C3%A9tricas.md#f-documentos-documents)
