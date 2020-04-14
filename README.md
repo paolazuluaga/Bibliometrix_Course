@@ -14,24 +14,24 @@ cuantitativa en el desempeño de investigaciones en diferentes campos del conoci
   
 
 ### Temario
-* Introducción a la Bibliometría
-* Fuentes de datos
+* [Introducción a la Bibliometría](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/1.%20Introducci%C3%B3n%20Bibliometr%C3%ADa.md)
+* [Fuentes de datos](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/2.%20Fuentes%20de%20Datos.md)
   - Scopus, Web of Science
-* Adquisión de Información
-* Introducción a Bibliometrix
+* [Adquisión de Información](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/3.%20Adquisici%C3%B3n%20de%20Informaci%C3%B3n.md)
+* [Introducción a Bibliometrix](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/4.%20Introducci%C3%B3n%20a%20Bibliometrix.md)
   - Bibliometrix package in R
-* Biblioshiny
-  - Análisis descriptivo
-  - Análisis de Fuentes
-  - Análisis de Autores
-  - Análisis de Citas
-  - Estructura Conceptual
+* [Biblioshiny](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.%20Biblioshiny.md)
+  - [Análisis de Fuentes](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.1.%20M%C3%A9tricas.md)
+  - [Análisis de Autores](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.1.%20M%C3%A9tricas.md)
+  - [Análisis de Documentos](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.1.%20M%C3%A9tricas.md)
+  - [Estructura Conceptual](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.2.%20Estructura%20de%20Conocimiento.md)
     + Red de Co-ocurrencia
     + Mapa Temático
     + Evolución Temática
-  - Estructura Intelectual
+  - [Estructura Intelectual](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.2.%20Estructura%20de%20Conocimiento.md(
     + Co-citación
-  - Estructura Social
+  - [Estructura Social](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.2.%20Estructura%20de%20Conocimiento.md)
+    + Red de Colaboración
  
 ________________________________________
  #### Requerimientos
