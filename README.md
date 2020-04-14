@@ -24,7 +24,7 @@ cuantitativa en el desempeño de investigaciones en diferentes campos del conoci
   - [Análisis de Fuentes](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.1.%20M%C3%A9tricas.md)
   - [Análisis de Autores](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.1.%20M%C3%A9tricas.md)
   - [Análisis de Documentos](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.1.%20M%C3%A9tricas.md)
-  - [Estructura Conceptual](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.2.%20Estructura%20de%20Conocimiento.md)
+  - [Estructura Conceptual](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.2.%20Estructura%20de%20Conocimiento.md#g-estructura-conceptual-conceptual-structure)
     + Red de Co-ocurrencia
     + Mapa Temático
     + Evolución Temática
