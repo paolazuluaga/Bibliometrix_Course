@@ -21,16 +21,16 @@ cuantitativa en el desempeño de investigaciones en diferentes campos del conoci
 * [Introducción a Bibliometrix](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/4.%20Introducci%C3%B3n%20a%20Bibliometrix.md)
   - Bibliometrix package in R
 * [Biblioshiny](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.%20Biblioshiny.md)
-  - [Análisis de Fuentes](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.1.%20M%C3%A9tricas.md)
-  - [Análisis de Autores](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.1.%20M%C3%A9tricas.md)
-  - [Análisis de Documentos](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.1.%20M%C3%A9tricas.md)
+  - [Análisis de Fuentes](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.1.%20M%C3%A9tricas.md#d-fuentes-sources)
+  - [Análisis de Autores](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.1.%20M%C3%A9tricas.md#e-autores-authors)
+  - [Análisis de Documentos](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.1.%20M%C3%A9tricas.md#f-documentos-documents)
   - [Estructura Conceptual](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.2.%20Estructura%20de%20Conocimiento.md#g-estructura-conceptual-conceptual-structure)
     + Red de Co-ocurrencia
     + Mapa Temático
     + Evolución Temática
-  - [Estructura Intelectual](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.2.%20Estructura%20de%20Conocimiento.md)
+  - [Estructura Intelectual](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.2.%20Estructura%20de%20Conocimiento.md#h-estructura-intelectual-intellectural-structure)
     + Co-citación
-  - [Estructura Social](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.2.%20Estructura%20de%20Conocimiento.md)
+  - [Estructura Social](https://github.com/paozuluaga/Bibliometrix_Course/blob/master/5.2.%20Estructura%20de%20Conocimiento.md#i-estructura-social-social-structure)
     + Red de Colaboración
  
 ________________________________________
