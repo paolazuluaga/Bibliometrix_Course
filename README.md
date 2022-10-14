@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img src="https://www.bibliometrix.org/logo.png" width="150"  />
+<img src="http://127.0.0.1:4650/logo.jpg" width="150"  />
 </p>
 
 La **Bibliometría** ofrece una visión profunda del análisis de citas, autores principales y tendencias de la comunidad en la investigación científica. La paquetería Bibliometrix para R, ofrece fases clave de indagación
